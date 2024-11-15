@@ -197,9 +197,9 @@ WITH CTE AS (
 		)
 	SELECT SHIFT, 
 			COUNT (TRANSACTIONS_ID) AS NUM_ORDERS
-	FROM CTE 
-	GROUP BY SHIFT;
-	```
+FROM CTE 
+GROUP BY SHIFT;
+```
 
 13. **How many customers bought items from each category?**:
 ```sql
@@ -216,7 +216,7 @@ SELECT COUNT(*) FROM
 	FROM CTE
 	GROUP BY CUSTOMER_ID)
 	WHERE NUM_CAT = 3;
-	```
+```
 ## Findings
 
 - **Customer Demographics**: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
