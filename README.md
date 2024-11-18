@@ -237,7 +237,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 ## Author - Audrey Tam
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. Please reach out with any questions or feedback.
+This project is part of my portfolio, showcasing the SQL skills needed for data analyst roles. Please reach out with any questions or feedback.
 
 ### Reach me
 
