@@ -1,4 +1,4 @@
-# SQL Project: Retail Sales Analysis of a raw sales dataset using SQL queries to answer sales related questions
+# PostgrSQL Project: Retail Sales Analysis of a raw sales dataset using SQL queries to answer sales related questions
 
 ## Project Overview
 
