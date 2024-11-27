@@ -1,5 +1,5 @@
 # PostgrSQL Project: Retail Sales Analysis of a raw sales dataset using SQL queries to answer sales related questions
-
+![screenshot](retailelenabslsstock.png)
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
