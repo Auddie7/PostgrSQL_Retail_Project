@@ -234,11 +234,11 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 This project is part of my portfolio, showcasing the SQL skills needed for data analyst roles. Please reach out with any questions or feedback.
 
-### Reach me
+### Reach me  
 
-Website: https://datawithaudrey.com
-Email: auddie7@gmail.com
-LinkdIn: www.linkedin.com/in/audrey-tam-2771341a5
+Website: https://datawithaudrey.com  
+Email: auddie7@gmail.com  
+LinkdIn: www.linkedin.com/in/audrey-tam-2771341a5  
 
 
 Thank you for stopping by, and I look forward to connecting with you.
